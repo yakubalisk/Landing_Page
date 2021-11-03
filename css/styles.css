@@ -1,0 +1,110 @@
+/* body{
+  background-color:  !important;
+} */
+h1{
+  color: #cccccc;
+}
+
+#title{
+    background-image: url("https://images.unsplash.com/photo-1501612780327-45045538702b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80");
+  background-color: #cccccc;
+  background-repeat: no-repeat;
+background-size: cover;
+height: 100%;
+}
+
+.bg-image{
+  width:100%;
+}
+
+.navbar{
+  margin-top: auto;
+  padding: 3% 8% 0% 8% !important;
+  background: trnsparent;
+}
+
+.navbar-nav{
+    margin: 0 60%;
+}
+
+.btn-sm{
+  /* margin: 2% !important; */
+  margin-left: 2% !important;
+  height: 38px !important;
+  width: 70px !important;
+}
+
+.title-text{
+  text-align: center;
+  margin-top: 50%;
+  margin-bottom: 50%;
+  margin-left: 1% !important;
+  padding: 5%;
+  font-size: 30px !important;
+}
+
+.titlecard{
+  background-color: #cccccc !important;
+  margin: 50% 2% 2% 40%;
+  /* margin-top: 50%;
+  margin-left: 40%;
+  margin-right: 2%;
+  margin-bottom: 2%; */
+  padding: 3%;
+}
+
+#Company{
+  margin: 10% 10% 10% 10%;
+  padding: 15px;
+}
+
+.box{
+  text-align: center;
+  padding: 25px;
+}
+
+#Carisole{
+  background-color: black;
+  color: #fff;
+
+  text-align: center;
+}
+
+.carousel-item{
+  padding: 7% 10%;
+}
+
+.timage{
+  text-align: center;
+  border-radius: 65%;
+  width: 120;
+  height: 120px;
+  margin: 1%;
+}
+
+#Pricing{
+  /* margin: 5% 10% 5% 10%; */
+  margin: 2% 5% 2% 5%;
+  text-align: center;
+}
+
+.pcard{
+  text-align: center;
+  margin: 2% 0 2% 0;
+  padding: 25px;
+}
+
+#Contact{
+background-color: #cccccc;
+  padding: 80px;
+  text-align: center;
+}
+
+.btncontact{
+
+  padding: 20px;
+  margin: 10px 15px 10px 15px;
+  text-align: center;
+  border: none;
+border-radius: 60px !important;
+}
